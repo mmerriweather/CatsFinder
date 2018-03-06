@@ -1,0 +1,10 @@
+/Users/orangepuppies/Logols/Cats.API/obj/Debug/netcoreapp2.0/Cats.API.csproj.CoreCompileInputs.cache
+/Users/orangepuppies/Logols/Cats.API/obj/Debug/netcoreapp2.0/Cats.API.AssemblyInfoInputs.cache
+/Users/orangepuppies/Logols/Cats.API/obj/Debug/netcoreapp2.0/Cats.API.AssemblyInfo.cs
+/Users/orangepuppies/Logols/Cats.API/bin/Debug/netcoreapp2.0/Cats.API.deps.json
+/Users/orangepuppies/Logols/Cats.API/bin/Debug/netcoreapp2.0/Cats.API.runtimeconfig.json
+/Users/orangepuppies/Logols/Cats.API/bin/Debug/netcoreapp2.0/Cats.API.runtimeconfig.dev.json
+/Users/orangepuppies/Logols/Cats.API/bin/Debug/netcoreapp2.0/Cats.API.dll
+/Users/orangepuppies/Logols/Cats.API/bin/Debug/netcoreapp2.0/Cats.API.pdb
+/Users/orangepuppies/Logols/Cats.API/obj/Debug/netcoreapp2.0/Cats.API.dll
+/Users/orangepuppies/Logols/Cats.API/obj/Debug/netcoreapp2.0/Cats.API.pdb
